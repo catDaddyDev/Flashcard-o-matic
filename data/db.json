@@ -1,0 +1,99 @@
+{
+  "decks": [
+    {
+      "initialDeckState": {
+        "name": "",
+        "description": ""
+      },
+      "name": "oops",
+      "description": "some text",
+      "id": 3
+    },
+    {
+      "initialDeckState": {
+        "name": "",
+        "description": ""
+      },
+      "name": "Oopsie",
+      "description": "Poopsie",
+      "id": 4
+    },
+    {
+      "initialDeckState": {
+        "name": "",
+        "description": ""
+      },
+      "name": "All of the Cats",
+      "description": "Cat quiz",
+      "id": 6
+    }
+  ],
+  "cards": [
+    {
+      "front": "Hello",
+      "back": "Bye",
+      "deckId": 4,
+      "id": 6
+    },
+    {
+      "front": "aint",
+      "back": "enough",
+      "deckId": 4,
+      "id": 7
+    },
+    {
+      "front": "what about",
+      "back": "now",
+      "deckId": 4,
+      "id": 8
+    },
+    {
+      "front": "hello",
+      "back": "please work",
+      "deckId": 4,
+      "id": 9
+    },
+    {
+      "front": "hello",
+      "back": "bye",
+      "deckId": 3,
+      "id": 10
+    },
+    {
+      "front": "yay",
+      "back": "boo",
+      "deckId": 3,
+      "id": 11
+    },
+    {
+      "front": "foo",
+      "back": "bar",
+      "deckId": 3,
+      "id": 12
+    },
+    {
+      "front": "Jago",
+      "back": "hood cat",
+      "deckId": 6,
+      "id": 14
+    },
+    {
+      "front": "Everglow",
+      "back": "Ever Hoe",
+      "deckId": 6,
+      "id": 15
+    },
+    {
+      "front": "Apollo",
+      "back": "App Olo",
+      "deckId": 6,
+      "id": 16
+    },
+    {
+      "front": "Aeris",
+      "back": "Titty Baby",
+      "deckId": 6,
+      "id": 17
+    }
+  ]
+}
