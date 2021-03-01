@@ -5,95 +5,35 @@
         "name": "",
         "description": ""
       },
-      "name": "oops",
-      "description": "some text",
-      "id": 3
-    },
-    {
-      "initialDeckState": {
-        "name": "",
-        "description": ""
-      },
-      "name": "Oopsie",
-      "description": "Poopsie",
-      "id": 4
-    },
-    {
-      "initialDeckState": {
-        "name": "",
-        "description": ""
-      },
-      "name": "All of the Cats",
-      "description": "Cat quiz",
-      "id": 6
+      "name": "Spongebob Squarepants",
+      "description": "Test your knowledge of anything related to the show Spongebob Squarepants.",
+      "id": 1
     }
   ],
   "cards": [
     {
-      "front": "Hello",
-      "back": "Bye",
-      "deckId": 4,
-      "id": 6
+      "front": "Where is Sandy Cheeks from?",
+      "back": "Texas",
+      "deckId": 1,
+      "id": 1
     },
     {
-      "front": "aint",
-      "back": "enough",
-      "deckId": 4,
-      "id": 7
+      "front": "Squidward plays what instrument?",
+      "back": "Clarinet",
+      "deckId": 1,
+      "id": 2
     },
     {
-      "front": "what about",
-      "back": "now",
-      "deckId": 4,
-      "id": 8
+      "front": "When Spongebob decides to sell his own hamburgers at a stand in front of his house, what is his product called?",
+      "back": "Pretty Patties",
+      "deckId": 1,
+      "id": 3
     },
     {
-      "front": "hello",
-      "back": "please work",
-      "deckId": 4,
-      "id": 9
-    },
-    {
-      "front": "hello",
-      "back": "bye",
-      "deckId": 3,
-      "id": 10
-    },
-    {
-      "front": "yay",
-      "back": "boo",
-      "deckId": 3,
-      "id": 11
-    },
-    {
-      "front": "foo",
-      "back": "bar",
-      "deckId": 3,
-      "id": 12
-    },
-    {
-      "front": "Jago",
-      "back": "hood cat",
-      "deckId": 6,
-      "id": 14
-    },
-    {
-      "front": "Everglow",
-      "back": "Ever Hoe",
-      "deckId": 6,
-      "id": 15
-    },
-    {
-      "front": "Apollo",
-      "back": "App Olo",
-      "deckId": 6,
-      "id": 16
-    },
-    {
-      "front": "Aeris",
-      "back": "Titty Baby",
-      "deckId": 6,
-      "id": 17
+      "front": "What is it that Patrick has trouble firmly grasping when he is imitating Spongebob at work?",
+      "back": "The lid (of the pickle jar)",
+      "deckId": 1,
+      "id": 4
     }
   ]
 }
